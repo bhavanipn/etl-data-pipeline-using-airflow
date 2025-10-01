@@ -49,7 +49,7 @@ The AirFlow DAG runs hourly to check and extract all new data from the PostgreSQ
 
 ## About the Maintainer
 
-This project is currently maintained by SUMMARY.
+This project is currently maintained by Naga Bhavani Puvvala.
 
 SUMMARY is a Software Engineer with 3+ years of professional experience, specializing in developing scalable, enterprise-grade applications. Proficient in Python, Pandas, and various data engineering concepts, SUMMARY is dedicated to building robust and efficient data pipelines.
 
