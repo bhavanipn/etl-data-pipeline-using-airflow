@@ -53,5 +53,4 @@ This project is currently maintained by Naga Bhavani Puvvala.
 
 SUMMARY is a Software Engineer with 3+ years of professional experience, specializing in developing scalable, enterprise-grade applications. Proficient in Python, Pandas, and various data engineering concepts, SUMMARY is dedicated to building robust and efficient data pipelines.
 
--   **LinkedIn:** https://linkedin.com/in/naga-bhavani-652753225
 -   **Email:** nagabhavanipuvvala21@gmail.com
